@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "demo": "ts-node testing.ts"
+  },
+  "dependencies": {
+    "@types/lodash-es": "^4.17.1",
+    "lodash-es": "4.17.11"
+  },
+  "devDependencies": {
+    "@types/typescript": "^2.0.0",
+    "ts-node": "7.0.0",
+    "typescript": "3.0.1"
+  }
+}
